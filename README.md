@@ -7,7 +7,7 @@
   Анализ требований</a> поиск нарушений характеристик хороших требований. </li> 
   <li>  <a href="https://docs.google.com/spreadsheets/d/1OOHk4dqaaz356yeh18xzqljIi0pcEM7qUNwzocmXCwI/edit?usp=sharing">
   Чек-лист</a> на главную страницу. </li>
-  <li>  <a href="https://docs.google.com/spreadsheets/d/1OOHk4dqaaz356yeh18xzqljIi0pcEM7qUNwzocmXCwI/edit?usp=sharing">
+  <li>  <a href="https://github.com/LenaraKisheva/testingGuru99/blob/main/G6-2023-12-20-2.pdf">
   Тест-кейсы</a> на функциональность Add Customer (в QASE) </li> 
 </ul>
 
