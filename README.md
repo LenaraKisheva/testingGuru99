@@ -20,7 +20,7 @@
 <ul>
   <li>  <a href="https://docs.google.com/spreadsheets/d/15mLpPugYF6pr-6oDhfUAlgeZ5VyhWLj0x7rUbQXnzfo/edit?usp=sharing">
   Тест-план и чек-лист</a> на тестирование корзины и модуля оплаты. </li> 
-  <li>  <a href="">
+  <li>  <a href="https://github.com/LenaraKisheva/testingGuru99/blob/main/demowebshop.pdf">
   Тест-кейсы</a> для описанных функциональностей (корзина + модуль оплаты) в системе QASE. </li> 
   <li>  <a href="">
   Отчет о дефектах в YouTrack</a> , выявленные при тестировании. </li> 
