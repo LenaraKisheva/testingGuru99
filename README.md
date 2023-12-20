@@ -8,7 +8,7 @@
   <li>  <a href="https://docs.google.com/spreadsheets/d/1OOHk4dqaaz356yeh18xzqljIi0pcEM7qUNwzocmXCwI/edit?usp=sharing">
   Чек-лист</a> на главную страницу. </li>
   <li>  <a href="https://docs.google.com/spreadsheets/d/1OOHk4dqaaz356yeh18xzqljIi0pcEM7qUNwzocmXCwI/edit?usp=sharing">
-  Чек-лист</a> на главную страницу. </li> 
+  Тест-кейсы</a> на функциональность Add Customer (в QASE) </li> 
 </ul>
 
 ---
