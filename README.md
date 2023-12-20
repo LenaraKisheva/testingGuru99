@@ -9,6 +9,8 @@
   Чек-лист</a> на главную страницу. </li>
   <li>  <a href="https://github.com/LenaraKisheva/testingGuru99/blob/main/TestqaseGuru99.pdf">
   Тест-кейсы</a> на функциональность Add Customer (в QASE) </li> 
+  <li>  <a href="https://github.com/LenaraKisheva/testingGuru99/blob/main/TestqaseGuru99.pdf">
+  Отчет о дефектах в YouTrack</a> , выявленные при тестировании главной страницы и страницы Add Customer </li> 
 </ul>
 
 ---
